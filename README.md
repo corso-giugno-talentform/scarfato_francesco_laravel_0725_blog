@@ -17,4 +17,3 @@ Creare un blog completo di tutta la parte grafica (Mobile e responsive), che sfr
 Le rotte richieste sono:
 - Homepage (Pagina indice con tutti gli articoli);
 - Dettaglio articolo (Pagina parametrica con elementi dinamici)
-
